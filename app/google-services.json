@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281630295414",
+    "firebase_url": "https://fireregister-c1df4.firebaseio.com",
+    "project_id": "fireregister-c1df4",
+    "storage_bucket": "fireregister-c1df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281630295414:android:8b7654e64b6e912f",
+        "android_client_info": {
+          "package_name": "com.example.fireregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281630295414-1u1eq62t9liks4ovdmua54pml59rft76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fireregister",
+            "certificate_hash": "7a4604c75cf06c7966adcdf1be4711347324af5f"
+          }
+        },
+        {
+          "client_id": "281630295414-l4e18h1g5lil9ns0u1qpk69199hbk4om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ4E_vVYpWVb24o0rUApVokcY0NLVyYv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281630295414-l4e18h1g5lil9ns0u1qpk69199hbk4om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
